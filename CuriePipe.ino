@@ -1,6 +1,6 @@
 /*  OpenPipe Breakout with BLE MIDI
  *
- *  Connect the OpenPipe Breakout wires to Android 101 as follows:
+ *  Connect the OpenPipe Breakout wires to Arduino 101 as follows:
  *  
  *  RED -> A2 (VCC)
  *  BLACK -> A3 (GND)
